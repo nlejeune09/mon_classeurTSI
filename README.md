@@ -18,7 +18,7 @@ du `code source` rendu en caractères `monospaces`,
 Ce document est rédigé en [MarkDown](https://fr.wikipedia.org/wiki/Markdown).
 
 ## Une image :
-![illustration GitHub Docs](https://ericecmorlaix.github.io/img/GitHub00c.png)
+![illustration GitHub Docs](https://i.pinimg.com/originals/7a/c6/91/7ac69100e88a63a14b9cbe8ba260721f.jpg)
 
 ## Une liste :
 - Toto ;
